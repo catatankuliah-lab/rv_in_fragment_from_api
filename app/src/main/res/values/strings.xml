@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragmen Recycler View API</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="string_data1">Text Data Ke-1</string>
+    <string name="string_data2">Text Data Ke-2</string>
+</resources>
